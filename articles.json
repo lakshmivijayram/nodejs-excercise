@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "title": "First Article",
+      "shortDescription": "This is the first article.",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod commodo urna, sit amet fringilla nisi commodo a. Vestibulum eget justo quis mi feugiat ultrices. Vivamus ac commodo tellus, vel bibendum nisi. Etiam vel lorem nec risus venenatis bibendum. Donec eget justo vel dolor efficitur tincidunt.",
+      "publishDate": "2022-01-01",
+      "category": "Technology",
+      "author": "John Doe"
+    },
+    {
+      "id": 2,
+      "title": "Second Article",
+      "content": "Nam pulvinar diam non quam semper malesuada. Suspendisse nec tellus nec felis consequat interdum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque fermentum nec libero sed lacinia. Praesent vel rutrum lectus. Nullam in justo lectus. Sed fermentum enim quam, ac malesuada risus gravida vitae. Donec nec consequat odio, non gravida augue. Suspendisse ut est non massa placerat malesuada ut sed nulla.",
+      "publishDate": "2022-02-15",
+      "category": "Food"
+    },
+    {
+      "id": 3,
+      "title": "Third Article",
+      "shortDescription": "This is the third article.",
+      "content": "Sed at fringilla augue. Duis dictum sagittis nibh, sit amet varius ipsum convallis et. Proin lacinia quam sed tellus laoreet elementum. Nullam vulputate accumsan lacus, sed sagittis quam pulvinar vel. Aliquam congue mauris in quam porttitor convallis. Suspendisse vel leo eu nibh varius pharetra. Nam euismod blandit velit, sed gravida odio elementum eu. Ut lacinia tellus sit amet sapien fringilla, non bibendum justo gravida. Curabitur non magna non dolor euismod sodales.",
+      "publishDate": "2022-03-31",
+      "category": "Travel",
+      "author": "Jane Smith"
+    }
+  ]
+  
