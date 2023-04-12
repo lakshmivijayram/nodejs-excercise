@@ -64,7 +64,7 @@ const server = http.createServer((req, res) => {
     }
   } else {
     res.statusCode = 404;
-    res.end('Route not found');
+    res.end('File not found');
   }
 });
 
